@@ -1,0 +1,34 @@
+{
+    "icons": [
+        {
+            "name": "Google",
+            "url": "https://www.google.com/"
+        },
+        {
+            "name": "Calendar",
+            "url": "https://calendar.google.com/calendar/u/0/r?pli=1"
+        },
+        {
+            "name": "Gmail",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+        },
+        {
+            "name": "Drive",
+            "url": "https://drive.google.com/drive/u/0/home"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/"
+        }
+    ],
+    "links": [
+        {
+            "name": "Moodle",
+            "url": "https://moodle.telt.unsw.edu.au/my/"
+        },
+        {
+            "name": "myUNSW",
+            "url": "https://sso.unsw.edu.au/cas/login?service=https%3A%2F%2Fmy.unsw.edu.au%2Fportal%2Fhome.html"
+        }
+    ]
+}
